@@ -1,4 +1,4 @@
-//Elad Sapir - 209479948, Solal Ohana - 336410055, SCE Ashdod
+//Elad Sapir, Solal Ohana, SCE Ashdod
 
 package mobility;
 
